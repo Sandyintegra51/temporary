@@ -4,7 +4,7 @@ const path = require('path');
 const axios = require('axios');
 
 // Use the specific Python path for intern00419
-const PYTHON_PATH = 'C:\\Users\\intern00419\\AppData\\Local\\Programs\\Python\\Python313\\python.exe';
+const PYTHON_PATH = 'python';
 
 // API configuration
 const API_KEY = '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';
