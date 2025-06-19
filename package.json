@@ -1,6 +1,4 @@
-{
-  "scripts": {
-    "build": "cd client && npm install && npm run build",
-    "start": "cd server && node server.js"
-  }
+"scripts": {
+  "build": "cd my-react-app && npm install && npm run build",
+  "start": "cd backend && node server.js"
 }
