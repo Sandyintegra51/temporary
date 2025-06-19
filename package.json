@@ -1,4 +1,14 @@
-"scripts": {
-  "build": "cd my-react-app && npm install && npm run build",
-  "start": "cd backend && node server.js"
+{
+  "name": "doc-ocr-app",
+  "version": "1.0.0",
+  "description": "Document OCR and data extractor",
+  "main": "server.js",
+  "scripts": {
+    "build": "cd my-react-app && npm install && npm run build",
+    "start": "cd backend && node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
 }
